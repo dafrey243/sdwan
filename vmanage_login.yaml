@@ -1,0 +1,6 @@
+# vManage Connectivity Info
+vmanage_host: 192.168.0.56
+vmanage_port: 8443
+vmanage_username: admin
+vmanage_password: mypassword
+ 

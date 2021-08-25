@@ -1,0 +1,13 @@
+term len 0
+Last login: Wed May 19 13:11:56 2021 from 10.0.3.50
+Welcome to Viptela CLI
+admin connected from 192.168.0.28 using ssh on ENvedge4-LTE
+[?7hENvedge4-LTE# config t
+Entering configuration mode terminal
+ENvedge4-LTE(config)# system
+ENvedge4-LTE(config-system)# tacacs
+ENvedge4-LTE(config-tacacs)# server 192.168.0.28 key 7b3lf1v8 vpn 512 source-interface eth0
+ENvedge4-LTE(config-server-192.168.0.28)# commit
+Commit complete.
+ENvedge4-LTE(config-server-192.168.0.28)# 
+ENvedge4-LTE(config-server-192.168.0.28)# 

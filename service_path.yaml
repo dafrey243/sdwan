@@ -1,0 +1,8 @@
+# Service Path
+remoteSystemIp: 11.1.1.85
+vpn: "1"
+interface: GigabitEthernet3
+sourceIp: 10.0.87.1
+destIp: 10.0.85.1
+protocol: "1"
+all: "true"

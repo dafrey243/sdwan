@@ -1,0 +1,12 @@
+
+lab-MPLS#term len 0
+lab-MPLS#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+lab-MPLS(config)#system
+                  ^
+% Invalid input detected at '^' marker.
+
+lab-MPLS(config)#tacacs
+% Incomplete command.
+
+lab-MPLS(config)#
