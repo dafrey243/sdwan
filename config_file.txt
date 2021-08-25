@@ -1,6 +1,0 @@
-config t
-system 
-tacacs
-server 192.168.0.28 key 7b3lf1v8 vpn 512 source-interface eth0
-commit
-
